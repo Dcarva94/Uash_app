@@ -1,5 +1,3 @@
-![](RackMultipart20221007-1-law13o_html_f52816cc3edc1a02.png)
-
 Carolyne Silva - 20210046
 
 Diogo Carvalho -20210008
