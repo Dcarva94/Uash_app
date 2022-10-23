@@ -144,7 +144,7 @@ Com essas tecnologias, segundo o nosso planejamento atual, todos os recursos do 
 
 #Calendarização
 
-![](../resourses/tabela.png)
+![](../resourses/Tabela.png)
 
 #Gráfico de Gantt
 
