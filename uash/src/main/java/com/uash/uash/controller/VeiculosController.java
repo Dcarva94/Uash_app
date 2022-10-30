@@ -6,18 +6,16 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.uash.uash.model.Lavagem;
-import com.uash.uash.repository.LavagemRepository;
+import com.uash.uash.model.Veiculo;
+import com.uash.uash.repository.VeiculoRepository;
 
 @RestController
-public class LavagemController {
+public class VeiculosController {
     @Autowired
-    private LavagemRepository lavagemRepo;
+    private VeiculoRepository veiculoRepo;
        
-    @GetMapping("/lavagens")
-    public List<Lavagem> listAll() {
-        return lavagemRepo.findAll();
+    @GetMapping("/veiculos")
+    public List<Veiculo> listAll() {
+        return veiculoRepo.findAll();
     }
-
-    
 }
