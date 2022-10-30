@@ -8,13 +8,16 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
+import javax.persistence.OneToOne;
 import javax.persistence.Table;
+
+import com.uash.uash.enumerado.RatingOpcao;
 
 import lombok.Getter;
 import lombok.Setter;
 
 @Entity
-@Table (name="user")
+@Table (name="usuario")
 @Setter
 @Getter
 
@@ -27,8 +30,19 @@ public class User {
     private int num_telefone;
     private int idade;
     private String localizacao;
+    private RatingOpcao rating;
     @OneToMany( targetEntity=Uasher.class )
     private Set uasheres;
     @ManyToMany( targetEntity=Veiculo.class )
     private Set veiculos;
+    @OneToOne (targetEntity=Uasher.class )
+    private Uasher uasher;
+    
+    /* 
+     * 
+     
+    
+    
+    */
+    
 }

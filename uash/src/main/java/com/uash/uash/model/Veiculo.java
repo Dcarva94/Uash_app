@@ -23,6 +23,8 @@ public class Veiculo {
     private int id;
     private String tipo;
     private String localizacao; 
+    private String matricula;
     @ManyToMany( targetEntity=User.class )
     private Set users;   
 }
+    

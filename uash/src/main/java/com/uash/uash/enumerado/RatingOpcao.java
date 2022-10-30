@@ -1,3 +1,5 @@
+// são as opções possiveis para preencher o campo
+
 package com.uash.uash.enumerado;
 
 public enum RatingOpcao {
