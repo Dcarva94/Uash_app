@@ -1,4 +1,4 @@
-![](RackMultipart20221031-1-qy7hpf_html_f52816cc3edc1a02.png)
+![](../resourses/cabecalho.png)
 
 Carolyne Silva - 20210046
 
@@ -119,15 +119,15 @@ Com essas tecnologias, segundo o nosso planejamento atual, todos os recursos do 
 
 **Arquitetura da Solução**
 
-![](RackMultipart20221031-1-qy7hpf_html_521506d16ed2fc00.png)
+![](../resourses/arquiteturasolucao.png)
 
 **Calendarização**
 
-![](RackMultipart20221031-1-qy7hpf_html_7dddc12694cded1d.png)
+![](../resourses/calendariosheetnew.png)
 
 **Gráfico de Gantt**
 
-![](RackMultipart20221031-1-qy7hpf_html_883f37ed66d75998.png)
+![](../resourses/calendariographnew.png)
 
 Link para planilha e gráfico: [Planeamento Uash\_app](https://docs.google.com/spreadsheets/d/1aBuNiJ8FxxYICI8C_mS5wFH96skpwiFpOAmsU30fZeg/edit?usp=sharing)
 
