@@ -1,5 +1,5 @@
 package com.uash.uash.enumerado;
 
 public enum Status {
-    SOLICITADO, CONFIRMADO;
+    SOLICITADO, CONFIRMADO, AGENDADO, CANCELADO;
 }

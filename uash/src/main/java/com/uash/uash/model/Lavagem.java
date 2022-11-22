@@ -32,3 +32,4 @@ public class Lavagem {
     private Status status;
     
 }
+
